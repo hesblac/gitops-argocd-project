@@ -29,7 +29,3 @@ setup for github also.
 
 install docker and github plugins
 install dashboard view
-
-start the build image stage of pipeline
-
-create the dockerfile
