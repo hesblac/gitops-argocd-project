@@ -1,0 +1,27 @@
+takes code from developer to the gitgub
+use webhook to trigger jenkins
+write dockerfile for python
+build docker image
+push to hub
+deploy using kubernetes
+deploy with argocd
+
+
+1.server setup and configuration:
+create a .vscode folder and create a file in it named settings.json
+
+2. advance declarative jenkinsfile creation(groovy scripting)
+3.jenkins runner configuration
+4. trigger jenkins job using vscode
+5. webhook configuration
+6. python application overview
+7. dockerizing python application
+8. kubernetes manifest file creation
+9. connect kubernetes nodes to argocd
+10. connect private github to argocd fo CD private
+11. trigger cd jenkis job using curl command and pass variable from ci pipelines
+
+
+
+
+setup global confuguration on jenkins for dockerhub

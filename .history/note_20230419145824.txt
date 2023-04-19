@@ -1,0 +1,6 @@
+takes code from developer to the gitgub
+use webhook to trigger jenkins 
+build docker image
+push to hub
+deploy using kubernetes
+deploy with argocd
