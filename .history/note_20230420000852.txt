@@ -37,6 +37,3 @@ create the dockerfile
 create a stage to push image to dockerhub
 
 test the pipeline to see that it works
-confirm images are in dockerhub.
-
-create a stage to clear workspace to delete image from server.
