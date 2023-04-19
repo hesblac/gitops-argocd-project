@@ -43,13 +43,3 @@ create a stage to clear workspace to delete image from server.
 tested and worked fine
 
 create deployment manifest
-use the created image.
-using v1 as the tag will make the shell script to always use the current build number.as tag
-
-create a service with nodeport 
-
-we create another stage to edit the tag of our image in the deployment file to use the latest build number
-we swaped the image name using sed. then cat the deployment file after that.
-
-
-run the pipeline and confirm
