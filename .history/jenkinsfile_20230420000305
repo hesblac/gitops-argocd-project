@@ -52,10 +52,7 @@ pipeline {
 
                 script{
 
-                    docker.withRegistry("",REGISTRY_CRED){
-                        docker_image.push("$BUILD_NUMBER")
-                        docker_image.push("latest")
-                    }
+                    docker.withRegistry("")
                 }
             }
         }
