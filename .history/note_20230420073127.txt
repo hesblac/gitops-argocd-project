@@ -68,4 +68,3 @@ run the pipeline and confirm
 
 install argocd on your minikube instance.
 
-configure webhook for the repo
