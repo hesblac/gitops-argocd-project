@@ -55,10 +55,3 @@ we swaped the image name using sed. then cat the deployment file after that.
 run the pipeline and confirm
 it worked
 ensure you indent the shell multiline script w3ll in the pipeline
-
-we want the newly changed image name to be pushed into the gitgub again
-
-add a new push image stage to the pipeline.
-wrote the shellscript to push and commit
-authenticate github
-then push
