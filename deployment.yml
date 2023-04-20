@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: flask-app-container
-        image: hesblac/gitops-argo-app:v1
+        image: hesblac/gitops-argo-app:68
         resources:
           limits:
             memory: "128Mi"
